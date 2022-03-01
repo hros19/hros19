@@ -1,4 +1,4 @@
-20yr Computer Engineering Student with interests in programming, chess, teaching and philosophy.
+20yr Computer Engineering Student with interests in programming, chess, teaching, graphic design and audiovisual production.
 
 ## 📫Contact:
 <p align="center">
