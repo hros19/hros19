@@ -4,4 +4,4 @@
 
 ## Most used languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hros19&theme=tokyonight)
+
