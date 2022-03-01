@@ -1,3 +1,5 @@
+20yr Computer Engineering Student with interests in programming, chess, teaching and philosophy.
+
 ## 📫Contact:
 <p align="center">
  <a href="https://www.facebook.com/hros19" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/hros19/images/main/facebook-svgrepo-com.svg?token=GHSAT0AAAAAABRYHU2LL3I3CASU3N64DV42YRH3W2Q" alt="Facebook" height="80" style="vertical-align:top; margin:4px"> </a>
