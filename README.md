@@ -3,7 +3,7 @@
 ## 📫Contact:
 <p align="center">
  <a href="https://www.facebook.com/hros19" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/hros19/images/main/facebook-svgrepo-com.svg?token=GHSAT0AAAAAABRYHU2LL3I3CASU3N64DV42YRH3W2Q" alt="Facebook" height="80" style="vertical-align:top; margin:4px"> </a>
- <a href="https://wa.me/qr/AOB4EOPWV6CNJ1" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/hros19/images/main/whatsapp-svgrepo-com.svg?token=GHSAT0AAAAAABRYHU2LLFKMLGSKKTLQXWCAYRH3SCA" alt="Whatsapp" height="80" style="vertical-align:top; margin:4px"></a>
+ <a href="https://wa.me/AOB4EOPWV6CNJ1" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/hros19/images/main/whatsapp-svgrepo-com.svg?token=GHSAT0AAAAAABRYHU2LLFKMLGSKKTLQXWCAYRH3SCA" alt="Whatsapp" height="80" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:rostrhan@outlook.com"> <img src="https://raw.githubusercontent.com/hros19/images/main/email-svgrepo-com.svg?token=GHSAT0AAAAAABRYHU2KKGBPJCO3I7ZNP4XMYRH3FIQ" alt="mail" height="80" style="vertical-align:top; margin:4px"></a> 
   <a href="https://t.me/hros19" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/hros19/images/main/telegram-svgrepo-com.svg?token=GHSAT0AAAAAABRYHU2KS26FAF4DSWTWKK42YRH3YSA" alt="Telegram" height="80" style="vertical-align:top; margin:4px"> </a>
 </p>
