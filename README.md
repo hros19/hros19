@@ -2,7 +2,7 @@
 
 ## 📖 Learning focus projects
 - [Wordle clone](https://hros19.github.io/Wordle/)
-- [Automatized 8-Puzzle Game](https://github.com/hros19/Automatized_8-Puzzle-Game)
+- [Automatized 8-Puzzle Game](https://hros19.github.io/Automatized_8-Puzzle-Game/)
 
 ## :star: Previous technologies:
 
