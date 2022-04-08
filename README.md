@@ -24,9 +24,12 @@
 </p>
 
 
-### Contact:
+### Contact
 <p align="left">
  <a href="https://www.facebook.com/hros19" target="_blank" rel="noopener noreferrer"> <img src="https://simpleicons.org/icons/facebook.svg" alt="Facebook" height="40" style="vertical-align:top; margin:6px; line-height: 10px"> </a>
  <a href="mailto:rostrhan@outlook.com"> <img src="https://simpleicons.org/icons/microsoftoutlook.svg" alt="mail" height="40" style="vertical-align:top; margin:6px; line-height: 10px"></a> 
   <a href="https://t.me/hros19" target="_blank" rel="noopener noreferrer"> <img src="https://simpleicons.org/icons/telegram.svg" alt="Telegram" height="40" style="vertical-align:top; margin:6px; line-height: 10px"> </a>
 </p>
+
+### Github stats
+![Hansol's GitHub stats](https://github-readme-stats.vercel.app/api?username=hros19&bg_color=60,1c3773,0055fb&title_color=ff5d05&text_color=fff&show_icons=true&count_private=true&icon_color=FF3838rank?)
