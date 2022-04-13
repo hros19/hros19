@@ -32,4 +32,5 @@
 </p>
 
 ### Github stats
-![Hansol's GitHub stats](https://github-readme-stats.vercel.app/api?username=hros19&bg_color=60,1c3773,0055fb&title_color=ff5d05&text_color=fff&show_icons=true&count_private=true&icon_color=FF3838rank?)
+![](https://github.com/hros19/github-dynam-stats/blob/master/generated/languages.svg)
+![](https://github.com/hros19/github-dynam-stats/blob/master/generated/overview.svg)
